@@ -2,6 +2,7 @@
     "name":"jgautheron/aoe_layoutconditions",
     "type":"magento-module",
     "license":"OSL-3.0",
+    "version": "0.2.1",
     "homepage":"https://github.com/jgautheron/Aoe_LayoutConditions",
     "description":"Layout XML extension with ifconfig and unlessconfig for blocks and references.",
     "authors":[
